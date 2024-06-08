@@ -371,6 +371,7 @@ nav {
 
 .car img {
   height: 150px;
+  width: 260px;
   object-fit: cover;
 }
 .car:hover {
